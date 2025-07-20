@@ -34,5 +34,5 @@ Data transformation best practices in Power BI.
 This Weather & AQI Dashboard project demonstrates my ability to work with real-time data, transform it effectively, and present it in a visually compelling and informative way using Power BI. From API integration to reusable DAX measures, the project reflects my growing skills in data analysis and dashboard development.
 
 📷 Screenshot / Demo:
-
+https://github.com/shivam821860/Weather_Dashboard/blob/main/Snapshot%20Of%20The%20Weather%20Dashboard.jpg
 
